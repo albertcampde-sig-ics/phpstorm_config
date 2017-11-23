@@ -10,8 +10,12 @@
           <option name="url" value="git@gitlab.icssolution.com:back/behat.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.icssolution.com:aa2k/vipclub-website.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/var/www" />
+    <option name="cloneParentDir" value="/var/www/aa2k/" />
   </component>
 </application>
