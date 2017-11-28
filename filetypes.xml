@@ -5,6 +5,7 @@
       <mapping ext="html" type="PHP" />
       <mapping pattern="htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="apache-foreground" type="PLAIN_TEXT" />
+      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
