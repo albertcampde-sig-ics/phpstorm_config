@@ -9,6 +9,7 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
