@@ -1,0 +1,5 @@
+<keymap version="1" name="Default copy" parent="Default for XWin">
+  <action id="performancePlugin.ShowMemoryDialogAction">
+    <keyboard-shortcut first-keystroke="ctrl alt #10000d1" />
+  </action>
+</keymap>
