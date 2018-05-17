@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\ICS\plugins\control_accesos\Gestion\Access\Passenger.getPassengeres(idReservation,idPassenger,where,order,mostrar_elemento_clave_0,limit,offset)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
