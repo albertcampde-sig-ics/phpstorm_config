@@ -10,5 +10,7 @@
   <component name="TodoConfiguration">
     <pattern pattern="@todo\b.*" />
     <pattern pattern="@fixme\b.*" />
+    <pattern pattern="@useme\b.*" />
+    <pattern pattern="@setme\b.*" />
   </component>
 </application>
